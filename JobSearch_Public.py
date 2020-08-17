@@ -90,4 +90,4 @@ if __name__ == '__main__':
         cisco()
         endgame()
         crowdstrike()
-        sleep(3600)
+        sleep(86400)
